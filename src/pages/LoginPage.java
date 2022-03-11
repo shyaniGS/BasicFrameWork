@@ -16,6 +16,8 @@ public class LoginPage
 {
 	WebDriver driver;
 	
+	//shyani gaurav after branch code added
+	
 	/*
 	 * WebElement email = driver.findElement(By.id("usernameInput-input"));;
 	 * WebElement password = driver.findElement(By.name("password")); WebElement
